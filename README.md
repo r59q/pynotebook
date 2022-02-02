@@ -9,7 +9,6 @@
 
 
 ### Starting jupyter
-1. `jupyter notebook` from the repo
-2. ``
+1. `jupyter notebook` from the repo in cmd
 
 
