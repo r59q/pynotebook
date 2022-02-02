@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pynotebook 
 
 ### Starting jupyter
@@ -8,3 +9,6 @@
 
 
 
+=======
+# pynotebook
+>>>>>>> 2964cd6a0cec34cc76b85075c8bd1dd15577ac41
